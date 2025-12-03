@@ -26,7 +26,7 @@ I enjoy solving complex problems, creating immersive game experiences, and devel
 - Built a **RAG-based chatbot** for enterprise SQL data (TMX database)  
 - Worked on NLP tasks and automation solutions  
 
-### **SolutionInn - Software Engineer Intern ** *(2025)*  
+### **SolutionInn - Software Engineer Intern** *(2025)*  
 - Built multiplayer-ready game systems  
 - Followed industry-standard Unity architecture  
 
