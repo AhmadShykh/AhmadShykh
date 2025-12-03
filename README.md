@@ -18,15 +18,19 @@ I enjoy solving complex problems, creating immersive game experiences, and devel
 ---
 
 ## 💼 Experience  
-### **Software Developer — InfiniteKnob** *(2025 – Present)*  
+### **Software Developer - InfiniteKnob** *(2025 – Present)*  
 - Building custom products with **ASP .NET + React**  
 - Working with **Meta APIs**, webhooks & automation workflows  
 
-### **Software Developer Intern — TechLogix** *(2025)*  
+### **Software Developer Intern - TechLogix** *(2025)*  
 - Built a **RAG-based chatbot** for enterprise SQL data (TMX database)  
 - Worked on NLP tasks and automation solutions  
 
-### **Game Developer Intern — Rift Games** *(2025)*  
+### **SolutionInn - Software Engineer Intern ** *(2025)*  
+- Built multiplayer-ready game systems  
+- Followed industry-standard Unity architecture  
+
+### **Game Developer Intern - Rift Games** *(2024)*  
 - Built multiplayer-ready game systems  
 - Followed industry-standard Unity architecture  
 
